@@ -1,4 +1,4 @@
-sciax2chat
+Sciax2 Chat
 ==========
 
 Qui c'è il sorgente della Chat di Sciax2.
